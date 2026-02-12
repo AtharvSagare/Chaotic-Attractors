@@ -111,16 +111,6 @@ Features:
 -   Shader-based glow visualization\
 -   Background music integration
 
-To enable the complete experience:
-
-1.  Download `quantum.mp3` (included in this repository).\
-2.  Place it in the same directory as `ROSSLERZOOM.py`.\
-3.  Run the script.
-
-The background track played is:
-
-"Quantum Mechanics -- Oppenheimer"
-
 ------------------------------------------------------------------------
 
 ### 3.3 Halvorsen Attractor
@@ -137,6 +127,15 @@ Features:
 -   Interactive controls\
 -   Background music support (Spacebar to pause/resume)
 
+To enable the complete experience:
+
+1.  Download `quantum.mp3` (included in this repository).\
+2.  Place it in the same directory as `halvorsen.py`.\
+3.  Run the script.
+
+The background track played is:
+
+"Quantum Mechanics -- Oppenheimer"
 ------------------------------------------------------------------------
 
 ## 4. Installation and Execution
